@@ -1,150 +1,150 @@
 /*
-  Typografier || Code released under the UNLICENSE
-  https://typografier.web-dev.tools/#0,110,1.4,1.200,0;38,120,1.5,1.333,1;60,125,1.5,1.500,1;90,140,1.6,1.618,1
+Typografier || Code released under the UNLICENSE
+https://typografier.web-dev.tools/#0,120,1.5,1.067,0;38,120,1.5,1.125,1;60,120,1.5,1.125,1;90,130,1.5,1.125,1
 */
 
 html {
-  font-size: 110%;
-  line-height: 1.4;
+font-size: 120%;
+line-height: 1.5;
 }
 
 a {
-  background-color: transparent;
-  -webkit-text-decoration-skip: objects;
+background-color: transparent;
+-webkit-text-decoration-skip: objects;
 }
 
 sub,
 sup {
-  font-size: .75em;
-  line-height: 1px;
-  position: relative;
-  vertical-align: baseline;
+font-size: .75em;
+line-height: 1px;
+position: relative;
+vertical-align: baseline;
 }
 
 sup {
-  top: -.5em;
+top: -.5em;
 }
 
 sub {
-  bottom: -.25em;
+bottom: -.25em;
 }
 
 pre,
 code,
 kbd,
 samp {
-  font-size: 1em;
+font-size: 1em;
 }
 
 abbr[title] {
-  border-bottom: none;
-  text-decoration: underline;
-  text-decoration: underline dotted;
+border-bottom: none;
+text-decoration: underline;
+text-decoration: underline dotted;
 }
 
 b,
 strong {
-  font-weight: bold;
+font-weight: bold;
 }
 
 dfn,
 caption {
-  font-style: italic;
+font-style: italic;
 }
 
 hr {
-  border: 0;
-  border-top: 2px solid #000;
-  height: 0;
+border: 0;
+border-top: 2px solid #000;
+height: 0;
 }
 
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  table-layout: fixed;
+border-collapse: collapse;
+border-spacing: 0;
+width: 100%;
+table-layout: fixed;
 }
 
 caption {
-  text-align: left;
+text-align: left;
 }
 
 th,
 td {
-  border-bottom: 1px solid #000;
-  text-align: left;
-  vertical-align: top;
+border-bottom: 1px solid #000;
+text-align: left;
+vertical-align: top;
 }
 
 thead th {
-  vertical-align: bottom;
+vertical-align: bottom;
 
-  border-bottom-width: 2px;
+border-bottom-width: 2px;
 }
 
 .text-left {
-  text-align: left;
+text-align: left;
 }
 
 .text-right {
-  text-align: right;
+text-align: right;
 }
 
 .text-center {
-  text-align: center;
+text-align: center;
 }
 
 .normal {
-  font-weight: normal;
-  font-style: normal;
+font-weight: normal;
+font-style: normal;
 }
 
 .not-bold {
-  font-weight: normal;
+font-weight: normal;
 }
 
 .not-italic {
-  font-style: normal;
+font-style: normal;
 }
 
 .bold {
-  font-weight: bold;
+font-weight: bold;
 }
 
 .italic {
-  font-style: italic;
+font-style: italic;
 }
 
 .text-upper {
-  text-transform: uppercase;
+text-transform: uppercase;
 }
 
 .text-lower {
-  text-transform: lowercase;
+text-transform: lowercase;
 }
 
 .wrapper {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 52em;
-  width: 100%;
+margin-left: auto;
+margin-right: auto;
+max-width: 52em;
+width: 100%;
 }
 
 .wrapper-no-center {
-  max-width: 52em;
-  width: 100%;
+max-width: 52em;
+width: 100%;
 }
 
 .max-length {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 36em;
-  width: 100%;
+margin-left: auto;
+margin-right: auto;
+max-width: 36em;
+width: 100%;
 }
 
 .max-length-no-center {
-  max-width: 36em;
-  width: 100%;
+max-width: 36em;
+width: 100%;
 }
 
 h1,
@@ -167,114 +167,529 @@ pre,
 table,
 caption,
 menu {
-  margin: 0 0 1.4rem;
+margin: 0 0 1.5rem;
 }
 
 .tenamega {
-  font-size: 8.1731rem;
-  line-height: 10.85rem;
+font-size: 2.449rem;
+line-height: 3.375rem;
 }
 
 .tenakilo {
-  font-size: 6.8109rem;
-  line-height: 9.1rem;
+font-size: 2.2952rem;
+line-height: 3rem;
 }
 
 .tena {
-  font-size: 5.6758rem;
-  line-height: 7.7rem;
+font-size: 2.1511rem;
+line-height: 3rem;
 }
 
 .nina {
-  font-size: 4.7298rem;
-  line-height: 6.3rem;
+font-size: 2.016rem;
+line-height: 2.625rem;
 }
 
 .yotta {
-  font-size: 3.9415rem;
-  line-height: 5.25rem;
+font-size: 1.8894rem;
+line-height: 2.625rem;
 }
 
 .zetta {
-  font-size: 3.2846rem;
-  line-height: 4.55rem;
+font-size: 1.7708rem;
+line-height: 2.625rem;
 }
 
 h1,
 .exa {
-  font-size: 2.7372rem;
-  line-height: 3.85rem;
+font-size: 1.6596rem;
+line-height: 2.25rem;
 }
 
 h2,
 .peta {
-  font-size: 2.281rem;
-  line-height: 3.15rem;
+font-size: 1.5554rem;
+line-height: 2.25rem;
 }
 
 h3,
 .tera {
-  font-size: 1.9008rem;
-  line-height: 2.8rem;
+font-size: 1.4577rem;
+line-height: 2.25rem;
 }
 
 h4,
 .giga {
-  font-size: 1.584rem;
-  line-height: 2.1rem;
+font-size: 1.3662rem;
+line-height: 1.875rem;
 }
 
 h5,
 .mega {
-  font-size: 1.32rem;
-  line-height: 1.75rem;
+font-size: 1.2804rem;
+line-height: 1.875rem;
 }
 
 h6,
 .kilo,
 input,
 textarea {
-  font-size: 1.1rem;
-  line-height: 1.75rem;
+font-size: 1.2rem;
+line-height: 1.875rem;
 }
 
 small,
 .milli {
-  font-size: .9167rem;
-  line-height: 1.4rem;
+font-size: 1.1246rem;
+line-height: 1.5rem;
 }
 
 .micro {
-  font-size: .7639rem;
-  line-height: 1.4rem;
+font-size: 1.054rem;
+line-height: 1.5rem;
 }
 
 .nano {
-  font-size: .6366rem;
-  line-height: 1.05rem;
+font-size: .9878rem;
+line-height: 1.5rem;
 }
 
 .pico {
-  font-size: .5305rem;
-  line-height: .7rem;
+font-size: .9258rem;
+line-height: 1.5rem;
 }
 
 ul {
-  padding-left: 1em;
+padding-left: 1em;
 }
 
 ol {
-  padding-left: 1.6em;
+padding-left: 1.6em;
 }
 
 input,
 option,
 select {
-  height: calc(1.4rem + .175rem + .175rem);
+height: calc(1.5rem + .1875rem + .1875rem);
 }
 
 [type="color"] {
-  width: calc(1.4rem + .175rem + .175rem);
+width: calc(1.5rem + .1875rem + .1875rem);
+}
+
+[type="checkbox"],
+[type="radio"] {
+display: inline-block;
+height: auto;
+}
+
+.push {
+margin-bottom: 1.5rem;
+}
+
+.push-none,
+.push-0 {
+margin-bottom: 0;
+}
+
+.push-double,
+.push-2 {
+margin-bottom: 3rem;
+}
+
+.push-three-quarters,
+.push-3-4 {
+margin-bottom: 1.125rem;
+}
+
+.push-half,
+.push-1-2 {
+margin-bottom: .75rem;
+}
+
+.push-quarter,
+.push-1-4 {
+margin-bottom: .375rem;
+}
+
+.push-eighth,
+.push-1-8 {
+margin-bottom: .1875rem;
+}
+
+.push-right-eighth,
+.push-r-1-8 {
+margin-right: .1875rem;
+}
+
+.push-right-quarter,
+.push-r-1-4 {
+margin-right: .375rem;
+}
+
+.push-right-half,
+.push-r-1-2 {
+margin-right: .75rem;
+}
+
+.push-right-three-quarters,
+.push-r-3-4 {
+margin-right: 1.125rem;
+}
+
+.push-right,
+.push-r {
+margin-right: 1.5rem;
+}
+
+.pad-top,
+.pad-t {
+padding-top: 1.5rem;
+}
+
+.pad-bottom,
+.pad-b {
+padding-bottom: 1.5rem;
+}
+
+.pad-top-double,
+.pad-t-2 {
+padding-top: 3rem;
+}
+
+.pad-bottom-double,
+.pad-b-2 {
+padding-bottom: 3rem;
+}
+
+.pad-top-three-quarters,
+.pad-t-3-4 {
+padding-top: 1.125rem;
+}
+
+.pad-bottom-three-quarters,
+.pad-b-3-4 {
+padding-bottom: 1.125rem;
+}
+
+.pad-top-half,
+.pad-t-1-2 {
+padding-top: .75rem;
+}
+
+.pad-bottom-half,
+.pad-b-1-2 {
+padding-bottom: .75rem;
+}
+
+.pad-top-quarter,
+.pad-t-1-4 {
+padding-top: .375rem;
+}
+
+.pad-bottom-quarter,
+.pad-b-1-4 {
+padding-bottom: .375rem;
+}
+
+.pad-top-eighth,
+.pad-t-1-8 {
+padding-top: .1875rem;
+}
+
+.pad-bottom-eighth,
+.pad-b-1-8 {
+padding-bottom: .1875rem;
+}
+
+.island {
+padding: 1.5rem;
+}
+
+.island-double,
+.island-2 {
+padding: 3rem;
+}
+
+.island-three-quarters,
+.island-3-4 {
+padding: 1.125rem;
+}
+
+.island-half,
+.island-1-2 {
+padding: .75rem;
+}
+
+.island-quarter,
+.island-1-4,
+td,
+table th {
+padding: .375rem;
+}
+
+.island-eighth,
+.island-1-8,
+input:not([type="checkbox"]),
+input:not([type="radio"]),
+textarea {
+padding: .1875rem;
+}
+
+.gutter {
+padding-left: 1.5rem;
+padding-right: 1.5rem;
+}
+
+.gutter-double,
+.gutter-2 {
+padding-left: 3rem;
+padding-right: 3rem;
+}
+
+.gutter-three-quarters,
+.gutter-3-4 {
+padding-left: 1.125rem;
+padding-right: 1.125rem;
+}
+
+.gutter-half,
+.gutter-1-2 {
+padding-left: .75rem;
+padding-right: .75rem;
+}
+
+.gutter-quarter,
+.gutter-1-4,
+caption {
+padding-left: .375rem;
+padding-right: .375rem;
+}
+
+.gutter-eighth,
+.gutter-1-8 {
+padding-left: .1875rem;
+padding-right: .1875rem;
+}
+
+.i-1 {
+height: 1.5rem;
+width: 1.5rem;
+}
+
+.i-3-4 {
+height: 1.125rem;
+width: 1.125rem;
+}
+
+.i-1-2 {
+height: .75rem;
+width: .75rem;
+}
+
+.i-1-4 {
+height: .375rem;
+width: .375rem;
+}
+
+.i-1-8 {
+height: .1875rem;
+width: .1875rem;
+}
+
+.i-1-1-2,
+.i-3-2 {
+height: 2.25rem;
+width: 2.25rem;
+}
+
+.i-1-1-4,
+.i-5-4 {
+height: 1.875rem;
+width: 1.875rem;
+}
+
+.i-1-3-4,
+.i-7-4 {
+height: 2.625rem;
+width: 2.625rem;
+}
+
+.i-2 {
+height: 3rem;
+width: 3rem;
+}
+
+select {
+padding: 0 .1875rem;
+}
+
+fieldset {
+padding: .375rem 0;
+
+border: 0;
+border-top: 2px solid #000;
+}
+
+legend {
+padding-right: .375rem;
+}
+
+@media only screen and (min-width: 38em) {
+
+html {
+  font-size: 120%;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+dl,
+dd,
+figure,
+blockquote,
+details,
+hr,
+fieldset,
+pre,
+table,
+caption,
+menu {
+  margin: 0 0 1.5rem;
+}
+
+.tenamega {
+  font-size: 3.6532rem;
+  line-height: 4.875rem;
+}
+
+.tenakilo {
+  font-size: 3.2473rem;
+  line-height: 4.5rem;
+}
+
+.tena {
+  font-size: 2.8865rem;
+  line-height: 4.125rem;
+}
+
+.nina {
+  font-size: 2.5658rem;
+  line-height: 3.375rem;
+}
+
+.yotta {
+  font-size: 2.2807rem;
+  line-height: 3rem;
+}
+
+.zetta {
+  font-size: 2.0273rem;
+  line-height: 3rem;
+}
+
+h1,
+.exa {
+  font-size: 1.802rem;
+  line-height: 2.625rem;
+}
+
+h2,
+.peta {
+  font-size: 1.6018rem;
+  line-height: 2.25rem;
+}
+
+h3,
+.tera {
+  font-size: 1.4238rem;
+  line-height: 1.875rem;
+}
+
+h4,
+.giga {
+  font-size: 1.2656rem;
+  line-height: 1.875rem;
+}
+
+h5,
+.mega {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+
+h6,
+.kilo,
+input,
+textarea {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+small,
+.milli {
+  font-size: .8889rem;
+  line-height: 1.5rem;
+}
+
+.micro {
+  font-size: .7901rem;
+  line-height: 1.5rem;
+}
+
+.nano {
+  font-size: .7023rem;
+  line-height: 1.125rem;
+}
+
+.pico {
+  font-size: .6243rem;
+  line-height: 1.125rem;
+}
+
+ul,
+ol {
+  padding-left: 0;
+}
+
+ul ul,
+ol ul {
+  padding-left: 1em;
+}
+
+ol ol,
+ul ol {
+  padding-left: 1.6em;
+}
+
+.hang-punc {
+  float: left;
+  margin-left: -1.4em;
+  text-align: right;
+  width: 1.3em;
+}
+
+table {
+  margin-left: -.375rem;
+  margin-right: -.375rem;
+  width: calc(100% + .375rem + .375rem);
+}
+
+input,
+option,
+select {
+  height: calc(1.5rem + .1875rem + .1875rem);
+}
+
+[type="color"] {
+  width: calc(1.5rem + .1875rem + .1875rem);
 }
 
 [type="checkbox"],
@@ -284,7 +699,7 @@ select {
 }
 
 .push {
-  margin-bottom: 1.4rem;
+  margin-bottom: 1.5rem;
 }
 
 .push-none,
@@ -294,138 +709,138 @@ select {
 
 .push-double,
 .push-2 {
-  margin-bottom: 2.8rem;
+  margin-bottom: 3rem;
 }
 
 .push-three-quarters,
 .push-3-4 {
-  margin-bottom: 1.05rem;
+  margin-bottom: 1.125rem;
 }
 
 .push-half,
 .push-1-2 {
-  margin-bottom: .7rem;
+  margin-bottom: .75rem;
 }
 
 .push-quarter,
 .push-1-4 {
-  margin-bottom: .35rem;
+  margin-bottom: .375rem;
 }
 
 .push-eighth,
 .push-1-8 {
-  margin-bottom: .175rem;
+  margin-bottom: .1875rem;
 }
 
 .push-right-eighth,
 .push-r-1-8 {
-  margin-right: .175rem;
+  margin-right: .1875rem;
 }
 
 .push-right-quarter,
 .push-r-1-4 {
-  margin-right: .35rem;
+  margin-right: .375rem;
 }
 
 .push-right-half,
 .push-r-1-2 {
-  margin-right: .7rem;
+  margin-right: .75rem;
 }
 
 .push-right-three-quarters,
 .push-r-3-4 {
-  margin-right: 1.05rem;
+  margin-right: 1.125rem;
 }
 
 .push-right,
 .push-r {
-  margin-right: 1.4rem;
+  margin-right: 1.5rem;
 }
 
 .pad-top,
 .pad-t {
-  padding-top: 1.4rem;
+  padding-top: 1.5rem;
 }
 
 .pad-bottom,
 .pad-b {
-  padding-bottom: 1.4rem;
+  padding-bottom: 1.5rem;
 }
 
 .pad-top-double,
 .pad-t-2 {
-  padding-top: 2.8rem;
+  padding-top: 3rem;
 }
 
 .pad-bottom-double,
 .pad-b-2 {
-  padding-bottom: 2.8rem;
+  padding-bottom: 3rem;
 }
 
 .pad-top-three-quarters,
 .pad-t-3-4 {
-  padding-top: 1.05rem;
+  padding-top: 1.125rem;
 }
 
 .pad-bottom-three-quarters,
 .pad-b-3-4 {
-  padding-bottom: 1.05rem;
+  padding-bottom: 1.125rem;
 }
 
 .pad-top-half,
 .pad-t-1-2 {
-  padding-top: .7rem;
+  padding-top: .75rem;
 }
 
 .pad-bottom-half,
 .pad-b-1-2 {
-  padding-bottom: .7rem;
+  padding-bottom: .75rem;
 }
 
 .pad-top-quarter,
 .pad-t-1-4 {
-  padding-top: .35rem;
+  padding-top: .375rem;
 }
 
 .pad-bottom-quarter,
 .pad-b-1-4 {
-  padding-bottom: .35rem;
+  padding-bottom: .375rem;
 }
 
 .pad-top-eighth,
 .pad-t-1-8 {
-  padding-top: .175rem;
+  padding-top: .1875rem;
 }
 
 .pad-bottom-eighth,
 .pad-b-1-8 {
-  padding-bottom: .175rem;
+  padding-bottom: .1875rem;
 }
 
 .island {
-  padding: 1.4rem;
+  padding: 1.5rem;
 }
 
 .island-double,
 .island-2 {
-  padding: 2.8rem;
+  padding: 3rem;
 }
 
 .island-three-quarters,
 .island-3-4 {
-  padding: 1.05rem;
+  padding: 1.125rem;
 }
 
 .island-half,
 .island-1-2 {
-  padding: .7rem;
+  padding: .75rem;
 }
 
 .island-quarter,
 .island-1-4,
 td,
 table th {
-  padding: .35rem;
+  padding: .375rem;
 }
 
 .island-eighth,
@@ -433,1355 +848,940 @@ table th {
 input:not([type="checkbox"]),
 input:not([type="radio"]),
 textarea {
-  padding: .175rem;
+  padding: .1875rem;
 }
 
 .gutter {
-  padding-left: 1.4rem;
-  padding-right: 1.4rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .gutter-double,
 .gutter-2 {
-  padding-left: 2.8rem;
-  padding-right: 2.8rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 .gutter-three-quarters,
 .gutter-3-4 {
-  padding-left: 1.05rem;
-  padding-right: 1.05rem;
+  padding-left: 1.125rem;
+  padding-right: 1.125rem;
 }
 
 .gutter-half,
 .gutter-1-2 {
-  padding-left: .7rem;
-  padding-right: .7rem;
+  padding-left: .75rem;
+  padding-right: .75rem;
 }
 
 .gutter-quarter,
 .gutter-1-4,
 caption {
-  padding-left: .35rem;
-  padding-right: .35rem;
+  padding-left: .375rem;
+  padding-right: .375rem;
 }
 
 .gutter-eighth,
 .gutter-1-8 {
-  padding-left: .175rem;
-  padding-right: .175rem;
+  padding-left: .1875rem;
+  padding-right: .1875rem;
 }
 
 .i-1 {
-  height: 1.4rem;
-  width: 1.4rem;
+  height: 1.5rem;
+  width: 1.5rem;
 }
 
 .i-3-4 {
-  height: 1.05rem;
-  width: 1.05rem;
+  height: 1.125rem;
+  width: 1.125rem;
 }
 
 .i-1-2 {
-  height: .7rem;
-  width: .7rem;
+  height: .75rem;
+  width: .75rem;
 }
 
 .i-1-4 {
-  height: .35rem;
-  width: .35rem;
+  height: .375rem;
+  width: .375rem;
 }
 
 .i-1-8 {
-  height: .175rem;
-  width: .175rem;
+  height: .1875rem;
+  width: .1875rem;
 }
 
 .i-1-1-2,
 .i-3-2 {
-  height: 2.1rem;
-  width: 2.1rem;
+  height: 2.25rem;
+  width: 2.25rem;
 }
 
 .i-1-1-4,
 .i-5-4 {
-  height: 1.75rem;
-  width: 1.75rem;
+  height: 1.875rem;
+  width: 1.875rem;
 }
 
 .i-1-3-4,
 .i-7-4 {
-  height: 2.45rem;
-  width: 2.45rem;
+  height: 2.625rem;
+  width: 2.625rem;
 }
 
 .i-2 {
-  height: 2.8rem;
-  width: 2.8rem;
+  height: 3rem;
+  width: 3rem;
 }
 
 select {
-  padding: 0 .175rem;
+  padding: 0 .1875rem;
 }
 
 fieldset {
-  padding: .35rem 0;
+  padding: .375rem 0;
 
   border: 0;
   border-top: 2px solid #000;
 }
 
 legend {
-  padding-right: .35rem;
+  padding-right: .375rem;
 }
-
-@media only screen and (min-width: 38em) {
-
-  html {
-    font-size: 120%;
-    line-height: 1.5;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p,
-  ul,
-  ol,
-  dl,
-  dd,
-  figure,
-  blockquote,
-  details,
-  hr,
-  fieldset,
-  pre,
-  table,
-  caption,
-  menu {
-    margin: 0 0 1.5rem;
-  }
-
-  .tenamega {
-    font-size: 23.6119rem;
-    line-height: 30.75rem;
-  }
-
-  .tenakilo {
-    font-size: 17.7134rem;
-    line-height: 23.25rem;
-  }
-
-  .tena {
-    font-size: 13.2884rem;
-    line-height: 17.625rem;
-  }
-
-  .nina {
-    font-size: 9.9688rem;
-    line-height: 13.125rem;
-  }
-
-  .yotta {
-    font-size: 7.4784rem;
-    line-height: 9.75rem;
-  }
-
-  .zetta {
-    font-size: 5.6102rem;
-    line-height: 7.5rem;
-  }
-
-  h1,
-  .exa {
-    font-size: 4.2087rem;
-    line-height: 5.625rem;
-  }
-
-  h2,
-  .peta {
-    font-size: 3.1573rem;
-    line-height: 4.125rem;
-  }
-
-  h3,
-  .tera {
-    font-size: 2.3686rem;
-    line-height: 3.375rem;
-  }
-
-  h4,
-  .giga {
-    font-size: 1.7769rem;
-    line-height: 2.625rem;
-  }
-
-  h5,
-  .mega {
-    font-size: 1.333rem;
-    line-height: 1.875rem;
-  }
-
-  h6,
-  .kilo,
-  input,
-  textarea {
-    font-size: 1rem;
-    line-height: 1.5rem;
-  }
-
-  small,
-  .milli {
-    font-size: .7502rem;
-    line-height: 1.125rem;
-  }
-
-  .micro {
-    font-size: .5628rem;
-    line-height: .75rem;
-  }
-
-  .nano {
-    font-size: .4222rem;
-    line-height: .75rem;
-  }
-
-  .pico {
-    font-size: .3167rem;
-    line-height: .375rem;
-  }
-
-  ul,
-  ol {
-    padding-left: 0;
-  }
-
-  ul ul,
-  ol ul {
-    padding-left: 1em;
-  }
-
-  ol ol,
-  ul ol {
-    padding-left: 1.6em;
-  }
-
-  .hang-punc {
-    float: left;
-    margin-left: -1.4em;
-    text-align: right;
-    width: 1.3em;
-  }
-
-  table {
-    margin-left: -.375rem;
-    margin-right: -.375rem;
-    width: calc(100% + .375rem + .375rem);
-  }
-
-  input,
-  option,
-  select {
-    height: calc(1.5rem + .1875rem + .1875rem);
-  }
-
-  [type="color"] {
-    width: calc(1.5rem + .1875rem + .1875rem);
-  }
-
-  [type="checkbox"],
-  [type="radio"] {
-    display: inline-block;
-    height: auto;
-  }
-
-  .push {
-    margin-bottom: 1.5rem;
-  }
-
-  .push-none,
-  .push-0 {
-    margin-bottom: 0;
-  }
-
-  .push-double,
-  .push-2 {
-    margin-bottom: 3rem;
-  }
-
-  .push-three-quarters,
-  .push-3-4 {
-    margin-bottom: 1.125rem;
-  }
-
-  .push-half,
-  .push-1-2 {
-    margin-bottom: .75rem;
-  }
-
-  .push-quarter,
-  .push-1-4 {
-    margin-bottom: .375rem;
-  }
-
-  .push-eighth,
-  .push-1-8 {
-    margin-bottom: .1875rem;
-  }
-
-  .push-right-eighth,
-  .push-r-1-8 {
-    margin-right: .1875rem;
-  }
-
-  .push-right-quarter,
-  .push-r-1-4 {
-    margin-right: .375rem;
-  }
-
-  .push-right-half,
-  .push-r-1-2 {
-    margin-right: .75rem;
-  }
-
-  .push-right-three-quarters,
-  .push-r-3-4 {
-    margin-right: 1.125rem;
-  }
-
-  .push-right,
-  .push-r {
-    margin-right: 1.5rem;
-  }
-
-  .pad-top,
-  .pad-t {
-    padding-top: 1.5rem;
-  }
-
-  .pad-bottom,
-  .pad-b {
-    padding-bottom: 1.5rem;
-  }
-
-  .pad-top-double,
-  .pad-t-2 {
-    padding-top: 3rem;
-  }
-
-  .pad-bottom-double,
-  .pad-b-2 {
-    padding-bottom: 3rem;
-  }
-
-  .pad-top-three-quarters,
-  .pad-t-3-4 {
-    padding-top: 1.125rem;
-  }
-
-  .pad-bottom-three-quarters,
-  .pad-b-3-4 {
-    padding-bottom: 1.125rem;
-  }
-
-  .pad-top-half,
-  .pad-t-1-2 {
-    padding-top: .75rem;
-  }
-
-  .pad-bottom-half,
-  .pad-b-1-2 {
-    padding-bottom: .75rem;
-  }
-
-  .pad-top-quarter,
-  .pad-t-1-4 {
-    padding-top: .375rem;
-  }
-
-  .pad-bottom-quarter,
-  .pad-b-1-4 {
-    padding-bottom: .375rem;
-  }
-
-  .pad-top-eighth,
-  .pad-t-1-8 {
-    padding-top: .1875rem;
-  }
-
-  .pad-bottom-eighth,
-  .pad-b-1-8 {
-    padding-bottom: .1875rem;
-  }
-
-  .island {
-    padding: 1.5rem;
-  }
-
-  .island-double,
-  .island-2 {
-    padding: 3rem;
-  }
-
-  .island-three-quarters,
-  .island-3-4 {
-    padding: 1.125rem;
-  }
-
-  .island-half,
-  .island-1-2 {
-    padding: .75rem;
-  }
-
-  .island-quarter,
-  .island-1-4,
-  td,
-  table th {
-    padding: .375rem;
-  }
-
-  .island-eighth,
-  .island-1-8,
-  input:not([type="checkbox"]),
-  input:not([type="radio"]),
-  textarea {
-    padding: .1875rem;
-  }
-
-  .gutter {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-
-  .gutter-double,
-  .gutter-2 {
-    padding-left: 3rem;
-    padding-right: 3rem;
-  }
-
-  .gutter-three-quarters,
-  .gutter-3-4 {
-    padding-left: 1.125rem;
-    padding-right: 1.125rem;
-  }
-
-  .gutter-half,
-  .gutter-1-2 {
-    padding-left: .75rem;
-    padding-right: .75rem;
-  }
-
-  .gutter-quarter,
-  .gutter-1-4,
-  caption {
-    padding-left: .375rem;
-    padding-right: .375rem;
-  }
-
-  .gutter-eighth,
-  .gutter-1-8 {
-    padding-left: .1875rem;
-    padding-right: .1875rem;
-  }
-
-  .i-1 {
-    height: 1.5rem;
-    width: 1.5rem;
-  }
-
-  .i-3-4 {
-    height: 1.125rem;
-    width: 1.125rem;
-  }
-
-  .i-1-2 {
-    height: .75rem;
-    width: .75rem;
-  }
-
-  .i-1-4 {
-    height: .375rem;
-    width: .375rem;
-  }
-
-  .i-1-8 {
-    height: .1875rem;
-    width: .1875rem;
-  }
-
-  .i-1-1-2,
-  .i-3-2 {
-    height: 2.25rem;
-    width: 2.25rem;
-  }
-
-  .i-1-1-4,
-  .i-5-4 {
-    height: 1.875rem;
-    width: 1.875rem;
-  }
-
-  .i-1-3-4,
-  .i-7-4 {
-    height: 2.625rem;
-    width: 2.625rem;
-  }
-
-  .i-2 {
-    height: 3rem;
-    width: 3rem;
-  }
-
-  select {
-    padding: 0 .1875rem;
-  }
-
-  fieldset {
-    padding: .375rem 0;
-
-    border: 0;
-    border-top: 2px solid #000;
-  }
-
-  legend {
-    padding-right: .375rem;
-  }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  html {
-    font-size: 125%;
-    line-height: 1.5;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p,
-  ul,
-  ol,
-  dl,
-  dd,
-  figure,
-  blockquote,
-  details,
-  hr,
-  fieldset,
-  pre,
-  table,
-  caption,
-  menu {
-    margin: 0 0 1.5rem;
-  }
-
-  .tenamega {
-    font-size: 86.4976rem;
-    line-height: 112.5rem;
-  }
-
-  .tenakilo {
-    font-size: 57.665rem;
-    line-height: 75rem;
-  }
-
-  .tena {
-    font-size: 38.4434rem;
-    line-height: 50.25rem;
-  }
-
-  .nina {
-    font-size: 25.6289rem;
-    line-height: 33.375rem;
-  }
-
-  .yotta {
-    font-size: 17.0859rem;
-    line-height: 22.5rem;
-  }
-
-  .zetta {
-    font-size: 11.3906rem;
-    line-height: 15rem;
-  }
-
-  h1,
-  .exa {
-    font-size: 7.5938rem;
-    line-height: 10.125rem;
-  }
-
-  h2,
-  .peta {
-    font-size: 5.0625rem;
-    line-height: 6.75rem;
-  }
-
-  h3,
-  .tera {
-    font-size: 3.375rem;
-    line-height: 4.5rem;
-  }
-
-  h4,
-  .giga {
-    font-size: 2.25rem;
-    line-height: 3rem;
-  }
-
-  h5,
-  .mega {
-    font-size: 1.5rem;
-    line-height: 2.25rem;
-  }
-
-  h6,
-  .kilo,
-  input,
-  textarea {
-    font-size: 1rem;
-    line-height: 1.5rem;
-  }
-
-  small,
-  .milli {
-    font-size: .6667rem;
-    line-height: 1.125rem;
-  }
-
-  .micro {
-    font-size: .4444rem;
-    line-height: .75rem;
-  }
-
-  .nano {
-    font-size: .2963rem;
-    line-height: .375rem;
-  }
-
-  .pico {
-    font-size: .1975rem;
-    line-height: .375rem;
-  }
-
-  ul,
-  ol {
-    padding-left: 0;
-  }
-
-  ul ul,
-  ol ul {
-    padding-left: 1em;
-  }
-
-  ol ol,
-  ul ol {
-    padding-left: 1.6em;
-  }
-
-  .hang-punc {
-    float: left;
-    margin-left: -1.4em;
-    text-align: right;
-    width: 1.3em;
-  }
-
-  table {
-    margin-left: -.375rem;
-    margin-right: -.375rem;
-    width: calc(100% + .375rem + .375rem);
-  }
-
-  input,
-  option,
-  select {
-    height: calc(1.5rem + .1875rem + .1875rem);
-  }
-
-  [type="color"] {
-    width: calc(1.5rem + .1875rem + .1875rem);
-  }
-
-  [type="checkbox"],
-  [type="radio"] {
-    display: inline-block;
-    height: auto;
-  }
-
-  .push {
-    margin-bottom: 1.5rem;
-  }
-
-  .push-none,
-  .push-0 {
-    margin-bottom: 0;
-  }
-
-  .push-double,
-  .push-2 {
-    margin-bottom: 3rem;
-  }
-
-  .push-three-quarters,
-  .push-3-4 {
-    margin-bottom: 1.125rem;
-  }
-
-  .push-half,
-  .push-1-2 {
-    margin-bottom: .75rem;
-  }
-
-  .push-quarter,
-  .push-1-4 {
-    margin-bottom: .375rem;
-  }
-
-  .push-eighth,
-  .push-1-8 {
-    margin-bottom: .1875rem;
-  }
-
-  .push-right-eighth,
-  .push-r-1-8 {
-    margin-right: .1875rem;
-  }
-
-  .push-right-quarter,
-  .push-r-1-4 {
-    margin-right: .375rem;
-  }
-
-  .push-right-half,
-  .push-r-1-2 {
-    margin-right: .75rem;
-  }
-
-  .push-right-three-quarters,
-  .push-r-3-4 {
-    margin-right: 1.125rem;
-  }
-
-  .push-right,
-  .push-r {
-    margin-right: 1.5rem;
-  }
-
-  .pad-top,
-  .pad-t {
-    padding-top: 1.5rem;
-  }
-
-  .pad-bottom,
-  .pad-b {
-    padding-bottom: 1.5rem;
-  }
-
-  .pad-top-double,
-  .pad-t-2 {
-    padding-top: 3rem;
-  }
-
-  .pad-bottom-double,
-  .pad-b-2 {
-    padding-bottom: 3rem;
-  }
-
-  .pad-top-three-quarters,
-  .pad-t-3-4 {
-    padding-top: 1.125rem;
-  }
-
-  .pad-bottom-three-quarters,
-  .pad-b-3-4 {
-    padding-bottom: 1.125rem;
-  }
-
-  .pad-top-half,
-  .pad-t-1-2 {
-    padding-top: .75rem;
-  }
-
-  .pad-bottom-half,
-  .pad-b-1-2 {
-    padding-bottom: .75rem;
-  }
-
-  .pad-top-quarter,
-  .pad-t-1-4 {
-    padding-top: .375rem;
-  }
-
-  .pad-bottom-quarter,
-  .pad-b-1-4 {
-    padding-bottom: .375rem;
-  }
-
-  .pad-top-eighth,
-  .pad-t-1-8 {
-    padding-top: .1875rem;
-  }
-
-  .pad-bottom-eighth,
-  .pad-b-1-8 {
-    padding-bottom: .1875rem;
-  }
-
-  .island {
-    padding: 1.5rem;
-  }
-
-  .island-double,
-  .island-2 {
-    padding: 3rem;
-  }
-
-  .island-three-quarters,
-  .island-3-4 {
-    padding: 1.125rem;
-  }
-
-  .island-half,
-  .island-1-2 {
-    padding: .75rem;
-  }
-
-  .island-quarter,
-  .island-1-4,
-  td,
-  table th {
-    padding: .375rem;
-  }
-
-  .island-eighth,
-  .island-1-8,
-  input:not([type="checkbox"]),
-  input:not([type="radio"]),
-  textarea {
-    padding: .1875rem;
-  }
-
-  .gutter {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-  }
-
-  .gutter-double,
-  .gutter-2 {
-    padding-left: 3rem;
-    padding-right: 3rem;
-  }
-
-  .gutter-three-quarters,
-  .gutter-3-4 {
-    padding-left: 1.125rem;
-    padding-right: 1.125rem;
-  }
-
-  .gutter-half,
-  .gutter-1-2 {
-    padding-left: .75rem;
-    padding-right: .75rem;
-  }
-
-  .gutter-quarter,
-  .gutter-1-4,
-  caption {
-    padding-left: .375rem;
-    padding-right: .375rem;
-  }
-
-  .gutter-eighth,
-  .gutter-1-8 {
-    padding-left: .1875rem;
-    padding-right: .1875rem;
-  }
-
-  .i-1 {
-    height: 1.5rem;
-    width: 1.5rem;
-  }
-
-  .i-3-4 {
-    height: 1.125rem;
-    width: 1.125rem;
-  }
-
-  .i-1-2 {
-    height: .75rem;
-    width: .75rem;
-  }
-
-  .i-1-4 {
-    height: .375rem;
-    width: .375rem;
-  }
-
-  .i-1-8 {
-    height: .1875rem;
-    width: .1875rem;
-  }
-
-  .i-1-1-2,
-  .i-3-2 {
-    height: 2.25rem;
-    width: 2.25rem;
-  }
-
-  .i-1-1-4,
-  .i-5-4 {
-    height: 1.875rem;
-    width: 1.875rem;
-  }
-
-  .i-1-3-4,
-  .i-7-4 {
-    height: 2.625rem;
-    width: 2.625rem;
-  }
-
-  .i-2 {
-    height: 3rem;
-    width: 3rem;
-  }
-
-  select {
-    padding: 0 .1875rem;
-  }
-
-  fieldset {
-    padding: .375rem 0;
-
-    border: 0;
-    border-top: 2px solid #000;
-  }
-
-  legend {
-    padding-right: .375rem;
-  }
+html {
+  font-size: 120%;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+dl,
+dd,
+figure,
+blockquote,
+details,
+hr,
+fieldset,
+pre,
+table,
+caption,
+menu {
+  margin: 0 0 1.5rem;
+}
+
+.tenamega {
+  font-size: 3.6532rem;
+  line-height: 4.875rem;
+}
+
+.tenakilo {
+  font-size: 3.2473rem;
+  line-height: 4.5rem;
+}
+
+.tena {
+  font-size: 2.8865rem;
+  line-height: 4.125rem;
+}
+
+.nina {
+  font-size: 2.5658rem;
+  line-height: 3.375rem;
+}
+
+.yotta {
+  font-size: 2.2807rem;
+  line-height: 3rem;
+}
+
+.zetta {
+  font-size: 2.0273rem;
+  line-height: 3rem;
+}
+
+h1,
+.exa {
+  font-size: 1.802rem;
+  line-height: 2.625rem;
+}
+
+h2,
+.peta {
+  font-size: 1.6018rem;
+  line-height: 2.25rem;
+}
+
+h3,
+.tera {
+  font-size: 1.4238rem;
+  line-height: 1.875rem;
+}
+
+h4,
+.giga {
+  font-size: 1.2656rem;
+  line-height: 1.875rem;
+}
+
+h5,
+.mega {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+
+h6,
+.kilo,
+input,
+textarea {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+small,
+.milli {
+  font-size: .8889rem;
+  line-height: 1.5rem;
+}
+
+.micro {
+  font-size: .7901rem;
+  line-height: 1.5rem;
+}
+
+.nano {
+  font-size: .7023rem;
+  line-height: 1.125rem;
+}
+
+.pico {
+  font-size: .6243rem;
+  line-height: 1.125rem;
+}
+
+ul,
+ol {
+  padding-left: 0;
+}
+
+ul ul,
+ol ul {
+  padding-left: 1em;
+}
+
+ol ol,
+ul ol {
+  padding-left: 1.6em;
+}
+
+.hang-punc {
+  float: left;
+  margin-left: -1.4em;
+  text-align: right;
+  width: 1.3em;
+}
+
+table {
+  margin-left: -.375rem;
+  margin-right: -.375rem;
+  width: calc(100% + .375rem + .375rem);
+}
+
+input,
+option,
+select {
+  height: calc(1.5rem + .1875rem + .1875rem);
+}
+
+[type="color"] {
+  width: calc(1.5rem + .1875rem + .1875rem);
+}
+
+[type="checkbox"],
+[type="radio"] {
+  display: inline-block;
+  height: auto;
+}
+
+.push {
+  margin-bottom: 1.5rem;
+}
+
+.push-none,
+.push-0 {
+  margin-bottom: 0;
+}
+
+.push-double,
+.push-2 {
+  margin-bottom: 3rem;
+}
+
+.push-three-quarters,
+.push-3-4 {
+  margin-bottom: 1.125rem;
+}
+
+.push-half,
+.push-1-2 {
+  margin-bottom: .75rem;
+}
+
+.push-quarter,
+.push-1-4 {
+  margin-bottom: .375rem;
+}
+
+.push-eighth,
+.push-1-8 {
+  margin-bottom: .1875rem;
+}
+
+.push-right-eighth,
+.push-r-1-8 {
+  margin-right: .1875rem;
+}
+
+.push-right-quarter,
+.push-r-1-4 {
+  margin-right: .375rem;
+}
+
+.push-right-half,
+.push-r-1-2 {
+  margin-right: .75rem;
+}
+
+.push-right-three-quarters,
+.push-r-3-4 {
+  margin-right: 1.125rem;
+}
+
+.push-right,
+.push-r {
+  margin-right: 1.5rem;
+}
+
+.pad-top,
+.pad-t {
+  padding-top: 1.5rem;
+}
+
+.pad-bottom,
+.pad-b {
+  padding-bottom: 1.5rem;
+}
+
+.pad-top-double,
+.pad-t-2 {
+  padding-top: 3rem;
+}
+
+.pad-bottom-double,
+.pad-b-2 {
+  padding-bottom: 3rem;
+}
+
+.pad-top-three-quarters,
+.pad-t-3-4 {
+  padding-top: 1.125rem;
+}
+
+.pad-bottom-three-quarters,
+.pad-b-3-4 {
+  padding-bottom: 1.125rem;
+}
+
+.pad-top-half,
+.pad-t-1-2 {
+  padding-top: .75rem;
+}
+
+.pad-bottom-half,
+.pad-b-1-2 {
+  padding-bottom: .75rem;
+}
+
+.pad-top-quarter,
+.pad-t-1-4 {
+  padding-top: .375rem;
+}
+
+.pad-bottom-quarter,
+.pad-b-1-4 {
+  padding-bottom: .375rem;
+}
+
+.pad-top-eighth,
+.pad-t-1-8 {
+  padding-top: .1875rem;
+}
+
+.pad-bottom-eighth,
+.pad-b-1-8 {
+  padding-bottom: .1875rem;
+}
+
+.island {
+  padding: 1.5rem;
+}
+
+.island-double,
+.island-2 {
+  padding: 3rem;
+}
+
+.island-three-quarters,
+.island-3-4 {
+  padding: 1.125rem;
+}
+
+.island-half,
+.island-1-2 {
+  padding: .75rem;
+}
+
+.island-quarter,
+.island-1-4,
+td,
+table th {
+  padding: .375rem;
+}
+
+.island-eighth,
+.island-1-8,
+input:not([type="checkbox"]),
+input:not([type="radio"]),
+textarea {
+  padding: .1875rem;
+}
+
+.gutter {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.gutter-double,
+.gutter-2 {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.gutter-three-quarters,
+.gutter-3-4 {
+  padding-left: 1.125rem;
+  padding-right: 1.125rem;
+}
+
+.gutter-half,
+.gutter-1-2 {
+  padding-left: .75rem;
+  padding-right: .75rem;
+}
+
+.gutter-quarter,
+.gutter-1-4,
+caption {
+  padding-left: .375rem;
+  padding-right: .375rem;
+}
+
+.gutter-eighth,
+.gutter-1-8 {
+  padding-left: .1875rem;
+  padding-right: .1875rem;
+}
+
+.i-1 {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.i-3-4 {
+  height: 1.125rem;
+  width: 1.125rem;
+}
+
+.i-1-2 {
+  height: .75rem;
+  width: .75rem;
+}
+
+.i-1-4 {
+  height: .375rem;
+  width: .375rem;
+}
+
+.i-1-8 {
+  height: .1875rem;
+  width: .1875rem;
+}
+
+.i-1-1-2,
+.i-3-2 {
+  height: 2.25rem;
+  width: 2.25rem;
+}
+
+.i-1-1-4,
+.i-5-4 {
+  height: 1.875rem;
+  width: 1.875rem;
+}
+
+.i-1-3-4,
+.i-7-4 {
+  height: 2.625rem;
+  width: 2.625rem;
+}
+
+.i-2 {
+  height: 3rem;
+  width: 3rem;
+}
+
+select {
+  padding: 0 .1875rem;
+}
+
+fieldset {
+  padding: .375rem 0;
+
+  border: 0;
+  border-top: 2px solid #000;
+}
+
+legend {
+  padding-right: .375rem;
+}
 
 }
 
 @media only screen and (min-width: 90em) {
 
-  html {
-    font-size: 140%;
-    line-height: 1.6;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p,
-  ul,
-  ol,
-  dl,
-  dd,
-  figure,
-  blockquote,
-  details,
-  hr,
-  fieldset,
-  pre,
-  table,
-  caption,
-  menu {
-    margin: 0 0 1.6rem;
-  }
-
-  .tenamega {
-    font-size: 198.959rem;
-    line-height: 258.8rem;
-  }
-
-  .tenakilo {
-    font-size: 122.966rem;
-    line-height: 160rem;
-  }
-
-  .tena {
-    font-size: 75.9988rem;
-    line-height: 98.8rem;
-  }
-
-  .nina {
-    font-size: 46.9708rem;
-    line-height: 61.2rem;
-  }
-
-  .yotta {
-    font-size: 29.0302rem;
-    line-height: 38rem;
-  }
-
-  .zetta {
-    font-size: 17.942rem;
-    line-height: 23.6rem;
-  }
-
-  h1,
-  .exa {
-    font-size: 11.089rem;
-    line-height: 14.8rem;
-  }
-
-  h2,
-  .peta {
-    font-size: 6.8535rem;
-    line-height: 9.2rem;
-  }
-
-  h3,
-  .tera {
-    font-size: 4.2358rem;
-    line-height: 5.6rem;
-  }
-
-  h4,
-  .giga {
-    font-size: 2.6179rem;
-    line-height: 3.6rem;
-  }
-
-  h5,
-  .mega {
-    font-size: 1.618rem;
-    line-height: 2.4rem;
-  }
-
-  h6,
-  .kilo,
-  input,
-  textarea {
-    font-size: 1rem;
-    line-height: 1.6rem;
-  }
-
-  small,
-  .milli {
-    font-size: .618rem;
-    line-height: .8rem;
-  }
-
-  .micro {
-    font-size: .382rem;
-    line-height: .4rem;
-  }
-
-  .nano {
-    font-size: .2361rem;
-    line-height: .4rem;
-  }
-
-  .pico {
-    font-size: .1459rem;
-    line-height: rem;
-  }
-
-  ul,
-  ol {
-    padding-left: 0;
-  }
-
-  ul ul,
-  ol ul {
-    padding-left: 1em;
-  }
-
-  ol ol,
-  ul ol {
-    padding-left: 1.6em;
-  }
-
-  .hang-punc {
-    float: left;
-    margin-left: -1.4em;
-    text-align: right;
-    width: 1.3em;
-  }
-
-  table {
-    margin-left: -.4rem;
-    margin-right: -.4rem;
-    width: calc(100% + .4rem + .4rem);
-  }
-
-  input,
-  option,
-  select {
-    height: calc(1.6rem + .2rem + .2rem);
-  }
-
-  [type="color"] {
-    width: calc(1.6rem + .2rem + .2rem);
-  }
-
-  [type="checkbox"],
-  [type="radio"] {
-    display: inline-block;
-    height: auto;
-  }
-
-  .push {
-    margin-bottom: 1.6rem;
-  }
-
-  .push-none,
-  .push-0 {
-    margin-bottom: 0;
-  }
-
-  .push-double,
-  .push-2 {
-    margin-bottom: 3.2rem;
-  }
-
-  .push-three-quarters,
-  .push-3-4 {
-    margin-bottom: 1.2rem;
-  }
-
-  .push-half,
-  .push-1-2 {
-    margin-bottom: .8rem;
-  }
-
-  .push-quarter,
-  .push-1-4 {
-    margin-bottom: .4rem;
-  }
-
-  .push-eighth,
-  .push-1-8 {
-    margin-bottom: .2rem;
-  }
-
-  .push-right-eighth,
-  .push-r-1-8 {
-    margin-right: .2rem;
-  }
-
-  .push-right-quarter,
-  .push-r-1-4 {
-    margin-right: .4rem;
-  }
-
-  .push-right-half,
-  .push-r-1-2 {
-    margin-right: .8rem;
-  }
-
-  .push-right-three-quarters,
-  .push-r-3-4 {
-    margin-right: 1.2rem;
-  }
-
-  .push-right,
-  .push-r {
-    margin-right: 1.6rem;
-  }
-
-  .pad-top,
-  .pad-t {
-    padding-top: 1.6rem;
-  }
-
-  .pad-bottom,
-  .pad-b {
-    padding-bottom: 1.6rem;
-  }
-
-  .pad-top-double,
-  .pad-t-2 {
-    padding-top: 3.2rem;
-  }
-
-  .pad-bottom-double,
-  .pad-b-2 {
-    padding-bottom: 3.2rem;
-  }
-
-  .pad-top-three-quarters,
-  .pad-t-3-4 {
-    padding-top: 1.2rem;
-  }
-
-  .pad-bottom-three-quarters,
-  .pad-b-3-4 {
-    padding-bottom: 1.2rem;
-  }
-
-  .pad-top-half,
-  .pad-t-1-2 {
-    padding-top: .8rem;
-  }
-
-  .pad-bottom-half,
-  .pad-b-1-2 {
-    padding-bottom: .8rem;
-  }
-
-  .pad-top-quarter,
-  .pad-t-1-4 {
-    padding-top: .4rem;
-  }
-
-  .pad-bottom-quarter,
-  .pad-b-1-4 {
-    padding-bottom: .4rem;
-  }
-
-  .pad-top-eighth,
-  .pad-t-1-8 {
-    padding-top: .2rem;
-  }
-
-  .pad-bottom-eighth,
-  .pad-b-1-8 {
-    padding-bottom: .2rem;
-  }
-
-  .island {
-    padding: 1.6rem;
-  }
-
-  .island-double,
-  .island-2 {
-    padding: 3.2rem;
-  }
-
-  .island-three-quarters,
-  .island-3-4 {
-    padding: 1.2rem;
-  }
-
-  .island-half,
-  .island-1-2 {
-    padding: .8rem;
-  }
-
-  .island-quarter,
-  .island-1-4,
-  td,
-  table th {
-    padding: .4rem;
-  }
-
-  .island-eighth,
-  .island-1-8,
-  input:not([type="checkbox"]),
-  input:not([type="radio"]),
-  textarea {
-    padding: .2rem;
-  }
-
-  .gutter {
-    padding-left: 1.6rem;
-    padding-right: 1.6rem;
-  }
-
-  .gutter-double,
-  .gutter-2 {
-    padding-left: 3.2rem;
-    padding-right: 3.2rem;
-  }
-
-  .gutter-three-quarters,
-  .gutter-3-4 {
-    padding-left: 1.2rem;
-    padding-right: 1.2rem;
-  }
-
-  .gutter-half,
-  .gutter-1-2 {
-    padding-left: .8rem;
-    padding-right: .8rem;
-  }
-
-  .gutter-quarter,
-  .gutter-1-4,
-  caption {
-    padding-left: .4rem;
-    padding-right: .4rem;
-  }
-
-  .gutter-eighth,
-  .gutter-1-8 {
-    padding-left: .2rem;
-    padding-right: .2rem;
-  }
-
-  .i-1 {
-    height: 1.6rem;
-    width: 1.6rem;
-  }
-
-  .i-3-4 {
-    height: 1.2rem;
-    width: 1.2rem;
-  }
-
-  .i-1-2 {
-    height: .8rem;
-    width: .8rem;
-  }
-
-  .i-1-4 {
-    height: .4rem;
-    width: .4rem;
-  }
-
-  .i-1-8 {
-    height: .2rem;
-    width: .2rem;
-  }
-
-  .i-1-1-2,
-  .i-3-2 {
-    height: 2.4rem;
-    width: 2.4rem;
-  }
-
-  .i-1-1-4,
-  .i-5-4 {
-    height: 2rem;
-    width: 2rem;
-  }
-
-  .i-1-3-4,
-  .i-7-4 {
-    height: 2.8rem;
-    width: 2.8rem;
-  }
-
-  .i-2 {
-    height: 3.2rem;
-    width: 3.2rem;
-  }
-
-  select {
-    padding: 0 .2rem;
-  }
-
-  fieldset {
-    padding: .4rem 0;
-
-    border: 0;
-    border-top: 2px solid #000;
-  }
-
-  legend {
-    padding-right: .4rem;
-  }
+html {
+  font-size: 130%;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+dl,
+dd,
+figure,
+blockquote,
+details,
+hr,
+fieldset,
+pre,
+table,
+caption,
+menu {
+  margin: 0 0 1.5rem;
+}
+
+.tenamega {
+  font-size: 3.6532rem;
+  line-height: 4.875rem;
+}
+
+.tenakilo {
+  font-size: 3.2473rem;
+  line-height: 4.5rem;
+}
+
+.tena {
+  font-size: 2.8865rem;
+  line-height: 4.125rem;
+}
+
+.nina {
+  font-size: 2.5658rem;
+  line-height: 3.375rem;
+}
+
+.yotta {
+  font-size: 2.2807rem;
+  line-height: 3rem;
+}
+
+.zetta {
+  font-size: 2.0273rem;
+  line-height: 3rem;
+}
+
+h1,
+.exa {
+  font-size: 1.802rem;
+  line-height: 2.625rem;
+}
+
+h2,
+.peta {
+  font-size: 1.6018rem;
+  line-height: 2.25rem;
+}
+
+h3,
+.tera {
+  font-size: 1.4238rem;
+  line-height: 1.875rem;
+}
+
+h4,
+.giga {
+  font-size: 1.2656rem;
+  line-height: 1.875rem;
+}
+
+h5,
+.mega {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+
+h6,
+.kilo,
+input,
+textarea {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+small,
+.milli {
+  font-size: .8889rem;
+  line-height: 1.5rem;
+}
+
+.micro {
+  font-size: .7901rem;
+  line-height: 1.5rem;
+}
+
+.nano {
+  font-size: .7023rem;
+  line-height: 1.125rem;
+}
+
+.pico {
+  font-size: .6243rem;
+  line-height: 1.125rem;
+}
+
+ul,
+ol {
+  padding-left: 0;
+}
+
+ul ul,
+ol ul {
+  padding-left: 1em;
+}
+
+ol ol,
+ul ol {
+  padding-left: 1.6em;
+}
+
+.hang-punc {
+  float: left;
+  margin-left: -1.4em;
+  text-align: right;
+  width: 1.3em;
+}
+
+table {
+  margin-left: -.375rem;
+  margin-right: -.375rem;
+  width: calc(100% + .375rem + .375rem);
+}
+
+input,
+option,
+select {
+  height: calc(1.5rem + .1875rem + .1875rem);
+}
+
+[type="color"] {
+  width: calc(1.5rem + .1875rem + .1875rem);
+}
+
+[type="checkbox"],
+[type="radio"] {
+  display: inline-block;
+  height: auto;
+}
+
+.push {
+  margin-bottom: 1.5rem;
+}
+
+.push-none,
+.push-0 {
+  margin-bottom: 0;
+}
+
+.push-double,
+.push-2 {
+  margin-bottom: 3rem;
+}
+
+.push-three-quarters,
+.push-3-4 {
+  margin-bottom: 1.125rem;
+}
+
+.push-half,
+.push-1-2 {
+  margin-bottom: .75rem;
+}
+
+.push-quarter,
+.push-1-4 {
+  margin-bottom: .375rem;
+}
+
+.push-eighth,
+.push-1-8 {
+  margin-bottom: .1875rem;
+}
+
+.push-right-eighth,
+.push-r-1-8 {
+  margin-right: .1875rem;
+}
+
+.push-right-quarter,
+.push-r-1-4 {
+  margin-right: .375rem;
+}
+
+.push-right-half,
+.push-r-1-2 {
+  margin-right: .75rem;
+}
+
+.push-right-three-quarters,
+.push-r-3-4 {
+  margin-right: 1.125rem;
+}
+
+.push-right,
+.push-r {
+  margin-right: 1.5rem;
+}
+
+.pad-top,
+.pad-t {
+  padding-top: 1.5rem;
+}
+
+.pad-bottom,
+.pad-b {
+  padding-bottom: 1.5rem;
+}
+
+.pad-top-double,
+.pad-t-2 {
+  padding-top: 3rem;
+}
+
+.pad-bottom-double,
+.pad-b-2 {
+  padding-bottom: 3rem;
+}
+
+.pad-top-three-quarters,
+.pad-t-3-4 {
+  padding-top: 1.125rem;
+}
+
+.pad-bottom-three-quarters,
+.pad-b-3-4 {
+  padding-bottom: 1.125rem;
+}
+
+.pad-top-half,
+.pad-t-1-2 {
+  padding-top: .75rem;
+}
+
+.pad-bottom-half,
+.pad-b-1-2 {
+  padding-bottom: .75rem;
+}
+
+.pad-top-quarter,
+.pad-t-1-4 {
+  padding-top: .375rem;
+}
+
+.pad-bottom-quarter,
+.pad-b-1-4 {
+  padding-bottom: .375rem;
+}
+
+.pad-top-eighth,
+.pad-t-1-8 {
+  padding-top: .1875rem;
+}
+
+.pad-bottom-eighth,
+.pad-b-1-8 {
+  padding-bottom: .1875rem;
+}
+
+.island {
+  padding: 1.5rem;
+}
+
+.island-double,
+.island-2 {
+  padding: 3rem;
+}
+
+.island-three-quarters,
+.island-3-4 {
+  padding: 1.125rem;
+}
+
+.island-half,
+.island-1-2 {
+  padding: .75rem;
+}
+
+.island-quarter,
+.island-1-4,
+td,
+table th {
+  padding: .375rem;
+}
+
+.island-eighth,
+.island-1-8,
+input:not([type="checkbox"]),
+input:not([type="radio"]),
+textarea {
+  padding: .1875rem;
+}
+
+.gutter {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.gutter-double,
+.gutter-2 {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.gutter-three-quarters,
+.gutter-3-4 {
+  padding-left: 1.125rem;
+  padding-right: 1.125rem;
+}
+
+.gutter-half,
+.gutter-1-2 {
+  padding-left: .75rem;
+  padding-right: .75rem;
+}
+
+.gutter-quarter,
+.gutter-1-4,
+caption {
+  padding-left: .375rem;
+  padding-right: .375rem;
+}
+
+.gutter-eighth,
+.gutter-1-8 {
+  padding-left: .1875rem;
+  padding-right: .1875rem;
+}
+
+.i-1 {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.i-3-4 {
+  height: 1.125rem;
+  width: 1.125rem;
+}
+
+.i-1-2 {
+  height: .75rem;
+  width: .75rem;
+}
+
+.i-1-4 {
+  height: .375rem;
+  width: .375rem;
+}
+
+.i-1-8 {
+  height: .1875rem;
+  width: .1875rem;
+}
+
+.i-1-1-2,
+.i-3-2 {
+  height: 2.25rem;
+  width: 2.25rem;
+}
+
+.i-1-1-4,
+.i-5-4 {
+  height: 1.875rem;
+  width: 1.875rem;
+}
+
+.i-1-3-4,
+.i-7-4 {
+  height: 2.625rem;
+  width: 2.625rem;
+}
+
+.i-2 {
+  height: 3rem;
+  width: 3rem;
+}
+
+select {
+  padding: 0 .1875rem;
+}
+
+fieldset {
+  padding: .375rem 0;
+
+  border: 0;
+  border-top: 2px solid #000;
+}
+
+legend {
+  padding-right: .375rem;
+}
 
 }
