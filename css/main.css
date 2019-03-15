@@ -16,7 +16,6 @@ body {
   font-family: Sacramento, cursive;
   color: rgb(83, 86, 102);
   position: absolute;
-  bottom: 0rem;
-  left: 8rem;
+  bottom: 16rem;
+  left: 32rem;
 }
-
