@@ -7,17 +7,9 @@ body {
   background-color: rgb(9, 23, 63);
 }
 
-.zetta {
-  position: relative;
-  margin: 0;
-}
-
 .light {
   font-family: Sacramento, cursive;
   color: rgb(83, 86, 102);
-  position: absolute;
-  bottom: 16rem;
-  left: 32rem;
 }
 
 .light:hover {
