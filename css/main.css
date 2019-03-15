@@ -1,13 +1,22 @@
 html {
   font-family: 'Archivo Black', sans-serif;;
-  color: rgb(145, 132, 114);
+  color: rgb(165, 134, 98);
 }
 
 body {
-  background-color: rgb(17, 39, 99);
+  background-color: rgb(9, 23, 63);
+}
+
+.zetta {
+  position: relative;
+  margin: 0;
 }
 
 .light {
   font-family: 'Sacramento', cursive;
-  color: rgb(107, 109, 121);
+  color: rgb(83, 86, 102);
+  position: absolute;
+  bottom: 0rem;
+  left: 8rem;
 }
+
